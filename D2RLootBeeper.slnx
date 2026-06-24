@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="D2RLootBeeper.Application/D2RLootBeeper.Application.csproj" />
+  <Project Path="D2RLootBeeper.Desktop/D2RLootBeeper.Desktop.csproj" />
+  <Project Path="D2RLootBeeper.Domain/D2RLootBeeper.Domain.csproj" />
+  <Project Path="D2RLootBeeper.Infrastructure/D2RLootBeeper.Infrastructure.csproj" />
+</Solution>
