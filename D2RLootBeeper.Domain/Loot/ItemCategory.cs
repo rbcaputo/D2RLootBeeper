@@ -12,7 +12,7 @@ public enum ItemCategory
   Charm,
   Gem,
   Gloves,
-  Helm,
+  Helmet,
   Jewel,
   Material,
   Ring,
