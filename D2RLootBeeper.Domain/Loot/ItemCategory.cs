@@ -6,7 +6,7 @@
 public enum ItemCategory
 {
   Amulet,
-  Armor,
+  Torso,
   Belt,
   Boots,
   Charm,

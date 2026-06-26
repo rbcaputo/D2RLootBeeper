@@ -732,7 +732,7 @@
     "Type": "One-Handed",
     "Subtype": "Scepter",
     "Quality": "Elite",
-    "Base": "Serapth Rod"
+    "Base": "Seraph Rod"
   },
   {
     "Supertype": "Weapon",
@@ -1243,7 +1243,7 @@
     "Type": "Two-Handed",
     "Subtype": "Axe",
     "Quality": "Exceptional",
-    "Base": "Acient Axe"
+    "Base": "Ancient Axe"
   },
   {
     "Supertype": "Weapon",
@@ -2276,7 +2276,7 @@
     "Supertype": "Armor",
     "Type": "Torso",
     "Quality": "Elite",
-    "Base": "Arhcon Plate"
+    "Base": "Archon Plate"
   },
   {
     "Supertype": "Armor",
@@ -3219,7 +3219,7 @@
     "Type": "Shield",
     "Subtype": "Auric",
     "Quality": "Elite",
-    "Base": "Scared Rondache"
+    "Base": "Sacred Rondache"
   },
   {
     "Supertype": "Armor",
@@ -3283,5 +3283,564 @@
     "Subtype": "Auric",
     "Quality": "Elite",
     "Base": "Vortex Shield"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Rune",
+    "Quality": "Low",
+    "Base": "El Rune"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Rune",
+    "Quality": "Low",
+    "Base": "Eld Rune"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Rune",
+    "Quality": "Low",
+    "Base": "Tir Rune"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Rune",
+    "Quality": "Low",
+    "Base": "Nef Rune"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Rune",
+    "Quality": "Low",
+    "Base": "Eth Rune"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Rune",
+    "Quality": "Low",
+    "Base": "Ith Rune"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Rune",
+    "Quality": "Low",
+    "Base": "Tal Rune"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Rune",
+    "Quality": "Low",
+    "Base": "Ral Rune"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Rune",
+    "Quality": "Low",
+    "Base": "Ort Rune"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Rune",
+    "Quality": "Low",
+    "Base": "Thul Rune"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Rune",
+    "Quality": "Mid",
+    "Base": "Amn Rune"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Rune",
+    "Quality": "Mid",
+    "Base": "Sol Rune"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Rune",
+    "Quality": "Mid",
+    "Base": "Shael Rune"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Rune",
+    "Quality": "Mid",
+    "Base": "Dol Rune"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Rune",
+    "Quality": "Mid",
+    "Base": "Hel Rune"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Rune",
+    "Quality": "Mid",
+    "Base": "Io Rune"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Rune",
+    "Quality": "Mid",
+    "Base": "Lum Rune"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Rune",
+    "Quality": "Mid",
+    "Base": "Ko Rune"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Rune",
+    "Quality": "Mid",
+    "Base": "Fal Rune"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Rune",
+    "Quality": "Mid",
+    "Base": "Lem Rune"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Rune",
+    "Quality": "High",
+    "Base": "Pul Rune"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Rune",
+    "Quality": "High",
+    "Base": "Um Rune"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Rune",
+    "Quality": "High",
+    "Base": "Mal Rune"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Rune",
+    "Quality": "High",
+    "Base": "Ist Rune"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Rune",
+    "Quality": "High",
+    "Base": "Gul Rune"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Rune",
+    "Quality": "High",
+    "Base": "Vex Rune"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Rune",
+    "Quality": "High",
+    "Base": "Ohm Rune"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Rune",
+    "Quality": "High",
+    "Base": "Lo Rune"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Rune",
+    "Quality": "High",
+    "Base": "Sur Rune"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Rune",
+    "Quality": "High",
+    "Base": "Ber Rune"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Rune",
+    "Quality": "High",
+    "Base": "Jah Rune"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Rune",
+    "Quality": "High",
+    "Base": "Cham Rune"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Rune",
+    "Quality": "High",
+    "Base": "Zod Rune"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Ring",
+    "Base": "Ring"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Amulet",
+    "Base": "Amulet"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Charm",
+    "Base": "Small Charm"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Charm",
+    "Base": "Large Charm"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Charm",
+    "Base": "Grand Charm"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Jewel",
+    "Base": "Jewel"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Chipped",
+    "Base": "Chipped Amethyst"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Flawed",
+    "Base": "Flawed Amethyst"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Normal",
+    "Base": "Amethyst"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Flawless",
+    "Base": "Flawless Amethyst"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Perfect",
+    "Base": "Perfect Amethyst"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Chipped",
+    "Base": "Chipped Topaz"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Flawed",
+    "Base": "Flawed Topaz"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Normal",
+    "Base": "Topaz"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Flawless",
+    "Base": "Flawless Topaz"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Perfect",
+    "Base": "Perfect Topaz"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Chipped",
+    "Base": "Chipped Sapphire"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Flawed",
+    "Base": "Flawed Sapphire"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Normal",
+    "Base": "Sapphire"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Flawless",
+    "Base": "Flawless Sapphire"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Perfect",
+    "Base": "Perfect Sapphire"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Chipped",
+    "Base": "Chipped Emerald"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Flawed",
+    "Base": "Flawed Emerald"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Normal",
+    "Base": "Emerald"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Flawless",
+    "Base": "Flawless Emerald"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Perfect",
+    "Base": "Perfect Emerald"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Chipped",
+    "Base": "Chipped Ruby"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Flawed",
+    "Base": "Flawed Ruby"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Normal",
+    "Base": "Ruby"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Flawless",
+    "Base": "Flawless Ruby"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Perfect",
+    "Base": "Perfect Ruby"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Chipped",
+    "Base": "Chipped Diamond"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Flawed",
+    "Base": "Flawed Diamond"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Normal",
+    "Base": "Diamond"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Flawless",
+    "Base": "Flawless Diamond"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Perfect",
+    "Base": "Perfect Diamond"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Chipped",
+    "Base": "Chipped Skull"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Flawed",
+    "Base": "Flawed Skull"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Normal",
+    "Base": "Skull"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Flawless",
+    "Base": "Flawless Skull"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Gem",
+    "Quality": "Perfect",
+    "Base": "Perfect Skull"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Material",
+    "Subtype": "Key",
+    "Base": "Key Of Terror"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Material",
+    "Subtype": "Key",
+    "Base": "Key Of Hate"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Material",
+    "Subtype": "Key",
+    "Base": "Key Of Destruction"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Material",
+    "Subtype": "Part",
+    "Base": "Baal's Eye"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Material",
+    "Subtype": "Part",
+    "Base": "Mephisto's Brain"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Material",
+    "Subtype": "Part",
+    "Base": "Diablo's Horn"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Material",
+    "Subtype": "Essence",
+    "Base": "Twisted Essence Of Suffering"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Material",
+    "Subtype": "Essence",
+    "Base": "Charged Essence Of Hatred"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Material",
+    "Subtype": "Essence",
+    "Base": "Burning Essence Of Terror"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Material",
+    "Subtype": "Essence",
+    "Base": "Festering Essence Of Destruction"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Material",
+    "Subtype": "Statue",
+    "Base": "Talic's Anguish"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Material",
+    "Subtype": "Statue",
+    "Base": "Korlic's Pain"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Material",
+    "Subtype": "Statue",
+    "Base": "Madawc's Ire"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Material",
+    "Subtype": "Statue",
+    "Base": "Bul-Katho's Nightmare"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Material",
+    "Subtype": "Statue",
+    "Base": "Worusk's End"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Material",
+    "Subtype": "Shard",
+    "Base": "Western Worldstone Shard"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Material",
+    "Subtype": "Shard",
+    "Base": "Eastern Worldstone Shard"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Material",
+    "Subtype": "Shard",
+    "Base": "Southern Worldstone Shard"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Material",
+    "Subtype": "Shard",
+    "Base": "Northern Worldstone Shard"
+  },
+  {
+    "Supertype": "Misc",
+    "Type": "Material",
+    "Subtype": "Shard",
+    "Base": "Deep Worldstone Shard"
   }
+
 ]
